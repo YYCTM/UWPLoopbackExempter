@@ -1,0 +1,2 @@
+# UWPLoopbackExempter
+解除所有UWP应用的本地回环限制的一个脚本
